@@ -1,3 +1,6 @@
+## This version has been modified by Bas ON5HB to work with Soapy AND PhantomSDRplus websdr - it allows 30MHz bandwidth - the original did 32Mhz.
+## This version is NOT tested with anything else.
+
 ## ExtIO_sddc.dll (software digital down converter) - Oscar Steila, ik1xpv
 
 ![CMake](https://github.com/ik1xpv/ExtIO_sddc/workflows/CMake/badge.svg)
